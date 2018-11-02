@@ -11,8 +11,8 @@
 
 #### Terminal/Command prompt
 ``` Terminal
-git clone https://username@bitbucket.org/coredeveloper2013/jobformazione.git
-cd jobformazione
+git clone https://github.com/<username>/vue-multi-auth-project.git
+cd vue-multi-auth-project
 composer update
 npm install
 
