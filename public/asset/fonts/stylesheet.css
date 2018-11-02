@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-BoldItalic.eot');
+    src: url('MadeynSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-BoldItalic.woff2') format('woff2'),
+        url('MadeynSans-BoldItalic.woff') format('woff'),
+        url('MadeynSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-Light.eot');
+    src: url('MadeynSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-Light.woff2') format('woff2'),
+        url('MadeynSans-Light.woff') format('woff'),
+        url('MadeynSans-Light.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-RegularItalic.eot');
+    src: url('MadeynSans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-RegularItalic.woff2') format('woff2'),
+        url('MadeynSans-RegularItalic.woff') format('woff'),
+        url('MadeynSans-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-LightItalic.eot');
+    src: url('MadeynSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-LightItalic.woff2') format('woff2'),
+        url('MadeynSans-LightItalic.woff') format('woff'),
+        url('MadeynSans-LightItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-SemiboldItalic.eot');
+    src: url('MadeynSans-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-SemiboldItalic.woff2') format('woff2'),
+        url('MadeynSans-SemiboldItalic.woff') format('woff'),
+        url('MadeynSans-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-Semibold.eot');
+    src: url('MadeynSans-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-Semibold.woff2') format('woff2'),
+        url('MadeynSans-Semibold.woff') format('woff'),
+        url('MadeynSans-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-Regular.eot');
+    src: url('MadeynSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-Regular.woff2') format('woff2'),
+        url('MadeynSans-Regular.woff') format('woff'),
+        url('MadeynSans-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MadeynSans';
+    src: url('MadeynSans-Bold.eot');
+    src: url('MadeynSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MadeynSans-Bold.woff2') format('woff2'),
+        url('MadeynSans-Bold.woff') format('woff'),
+        url('MadeynSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Biko';
+    src: url('Biko-Black.eot');
+    src: url('Biko-Black.eot?#iefix') format('embedded-opentype'),
+        url('Biko-Black.woff2') format('woff2'),
+        url('Biko-Black.woff') format('woff'),
+        url('Biko-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Biko';
+    src: url('Biko-Light.eot');
+    src: url('Biko-Light.eot?#iefix') format('embedded-opentype'),
+        url('Biko-Light.woff2') format('woff2'),
+        url('Biko-Light.woff') format('woff'),
+        url('Biko-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Biko';
+    src: url('Biko-Bold.eot');
+    src: url('Biko-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Biko-Bold.woff2') format('woff2'),
+        url('Biko-Bold.woff') format('woff'),
+        url('Biko-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Biko';
+    src: url('Biko.eot');
+    src: url('Biko.eot?#iefix') format('embedded-opentype'),
+        url('Biko.woff2') format('woff2'),
+        url('Biko.woff') format('woff'),
+        url('Biko.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
